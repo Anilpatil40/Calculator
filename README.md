@@ -14,3 +14,6 @@ It is Simple calculator app to calculate simple problems.
 * Simple Calculations
 * Supports unsigned value
 * Nice look and feel
+
+## DOWNLOADS
+[Calculator.apk](https://ff1rsplje6f0zamv3oeygg-on.drv.tw/GitHub/Anilpatil40/Calculator.apk)
