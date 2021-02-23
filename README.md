@@ -16,5 +16,4 @@ It is Simple calculator app to calculate simple problems.
 * Nice look and feel
 
 ## DOWNLOADS
-<p>
-<input type="image" src="https://www.freepngimg.com/thumb/submit_button/25497-9-submit-button-photos.png"/>
+<input type="image" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' />
