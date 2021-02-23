@@ -16,7 +16,7 @@ It is Simple calculator app to calculate simple problems.
 * Nice look and feel
 
 ## DOWNLOADS
-<p>Download Cheerswipe now!</p>
+
 <div
   class="store-badge"
   data-name="Calculator - Quick Setting Tile"
