@@ -16,11 +16,7 @@ It is Simple calculator app to calculate simple problems.
 * Nice look and feel
 
 ## DOWNLOADS
-
-<div
-  class="store-badge"
-  data-name="Calculator - Quick Setting Tile"
-  data-google-play-url="https://play.google.com/store/apps/details?id=com.swayam.calculator"
-  data-app-store-url="https://apps.apple.com/us/app/cheerswipe/id1468158095?ls=1"
-></div>
-<script async src="https://cdn.jsdelivr.net/npm/store-badge@1/build/bundle.js"></script>
+<p align="center">
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="50%">
+</p>
+//<a href='https://play.google.com/store/apps/details?id=com.swayam.calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
