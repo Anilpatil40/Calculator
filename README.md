@@ -16,6 +16,4 @@ It is Simple calculator app to calculate simple problems.
 * Nice look and feel
 
 ## DOWNLOADS
-<p align="center">
-<input type="image" src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%">
-</p>
+<input type="image" name="any" src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%"/>
