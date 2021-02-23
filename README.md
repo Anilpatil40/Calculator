@@ -16,4 +16,11 @@ It is Simple calculator app to calculate simple problems.
 * Nice look and feel
 
 ## DOWNLOADS
-[Calculator.apk](https://ff1rsplje6f0zamv3oeygg-on.drv.tw/GitHub/Anilpatil40/Calculator.apk)
+<p>Download Cheerswipe now!</p>
+<div
+  class="store-badge"
+  data-name="Calculator - Quick Setting Tile"
+  data-google-play-url="https://play.google.com/store/apps/details?id=com.swayam.calculator"
+  data-app-store-url="https://apps.apple.com/us/app/cheerswipe/id1468158095?ls=1"
+></div>
+<script async src="https://cdn.jsdelivr.net/npm/store-badge@1/build/bundle.js"></script>
