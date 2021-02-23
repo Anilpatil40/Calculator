@@ -17,5 +17,5 @@ It is Simple calculator app to calculate simple problems.
 
 ## DOWNLOADS
 <p align="center">
-<img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%">
+<input type="image" src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%">
 </p>
