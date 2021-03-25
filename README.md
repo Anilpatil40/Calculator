@@ -16,6 +16,6 @@ It is Simple calculator app to calculate simple problems.
 * Nice look and feel
 
 ## DOWNLOADS
-<a href='https://play.google.com/store/apps/details?id=com.swayam.calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+<a href='https://play.google.com/store/apps/details?id=com.swayam.calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank">
   <img alt='Get it on Google Play' width="200px" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
 </a>
